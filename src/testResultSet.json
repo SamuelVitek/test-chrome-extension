@@ -1,0 +1,565 @@
+{
+  "search_metadata":
+  {
+    "id":
+    "6467cf299bddf7c5e7319e18",
+    "status":
+    "Success",
+    "json_endpoint":
+    "https://serpapi.com/searches/522825e75b162b04/6467cf299bddf7c5e7319e18.json",
+    "created_at":
+    "2023-05-19 19:34:01 UTC",
+    "processed_at":
+    "2023-05-19 19:34:01 UTC",
+    "google_url":
+    "https://www.google.com/search?q=site%3Amarkettailor.io+seo&oq=site%3Amarkettailor.io+seo&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file":
+    "https://serpapi.com/searches/522825e75b162b04/6467cf299bddf7c5e7319e18.html",
+    "total_time_taken":
+    1.02
+  },
+  "search_parameters":
+  {
+    "engine":
+    "google",
+    "q":
+    "site:markettailor.io seo",
+    "location_requested":
+    "Austin, Texas, United States",
+    "location_used":
+    "Austin,Texas,United States",
+    "google_domain":
+    "google.com",
+    "hl":
+    "en",
+    "gl":
+    "us",
+    "device":
+    "desktop"
+  },
+  "search_information":
+  {
+    "organic_results_state":
+    "Results for exact spelling",
+    "query_displayed":
+    "site:markettailor.io seo",
+    "total_results":
+    557,
+    "time_taken_displayed":
+    0.32,
+    "menu_items":
+    [
+      {
+        "position":
+        1,
+        "title":
+        "Images",
+        "link":
+        "https://www.google.com/search?gl=us&hl=en&q=site:markettailor.io+seo&tbm=isch&sa=X&ved=2ahUKEwit07KGkIL_AhUPOkQIHfqABVAQ0pQJegQIBRAB",
+        "serpapi_link":
+        "https://serpapi.com/search.json?device=desktop&engine=google_images&gl=us&google_domain=google.com&hl=en&q=site%3Amarkettailor.io+seo"
+      },
+      {
+        "position":
+        2,
+        "title":
+        "News",
+        "link":
+        "https://www.google.com/search?gl=us&hl=en&q=site:markettailor.io+seo&tbm=nws&sa=X&ved=2ahUKEwit07KGkIL_AhUPOkQIHfqABVAQ0pQJegQIBBAB",
+        "serpapi_link":
+        "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=site%3Amarkettailor.io+seo&tbm=nws"
+      },
+      {
+        "position":
+        3,
+        "title":
+        "Videos",
+        "link":
+        "https://www.google.com/search?gl=us&hl=en&q=site:markettailor.io+seo&tbm=vid&sa=X&ved=2ahUKEwit07KGkIL_AhUPOkQIHfqABVAQ0pQJegQIAxAB",
+        "serpapi_link":
+        "https://serpapi.com/search.json?device=desktop&engine=google_videos&gl=us&google_domain=google.com&hl=en&q=site%3Amarkettailor.io+seo"
+      },
+      {
+        "position":
+        4,
+        "title":
+        "Books",
+        "link":
+        "https://www.google.com/search?gl=us&hl=en&q=site:markettailor.io+seo&tbm=bks&sa=X&ved=2ahUKEwit07KGkIL_AhUPOkQIHfqABVAQ0pQJegQIAhAB"
+      },
+      {
+        "position":
+        5,
+        "title":
+        "Google",
+        "link":
+        "https://www.google.com/search?gl=us&hl=en&q=Google+SEO&uds=ixKACiQKBkdvb2dsZRIYc2l0ZTptYXJrZXR0YWlsb3IuaW8gc2VvMAED&sa=X&ved=2ahUKEwit07KGkIL_AhUPOkQIHfqABVAQxKsJegQILBAB&ictx=0",
+        "serpapi_link":
+        "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Google+SEO"
+      },
+      {
+        "position":
+        6,
+        "title":
+        "Jobs",
+        "link":
+        "https://www.google.com/search?gl=us&hl=en&q=SEO+jobs&uds=ixGACiIKBGpvYnMSGHNpdGU6bWFya2V0dGFpbG9yLmlvIHNlbzABAw&sa=X&ved=2ahUKEwit07KGkIL_AhUPOkQIHfqABVAQxKsJegQIMBAB&ictx=0",
+        "serpapi_link":
+        "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=SEO+jobs"
+      },
+      {
+        "position":
+        7,
+        "title":
+        "For beginners",
+        "link":
+        "https://www.google.com/search?gl=us&hl=en&q=SEO+for+beginners&uds=CxaACisKDWZvciBiZWdpbm5lcnMSGHNpdGU6bWFya2V0dGFpbG9yLmlvIHNlbzABAw&sa=X&ved=2ahUKEwit07KGkIL_AhUPOkQIHfqABVAQxKsJegQILxAB&ictx=0",
+        "serpapi_link":
+        "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=SEO+for+beginners"
+      },
+      {
+        "position":
+        8,
+        "title":
+        "On-page",
+        "link":
+        "https://www.google.com/search?gl=us&hl=en&q=On-page+SEO&uds=CxOACiUKB09uLXBhZ2USGHNpdGU6bWFya2V0dGFpbG9yLmlvIHNlbzABAw&sa=X&ved=2ahUKEwit07KGkIL_AhUPOkQIHfqABVAQxKsJegQILhAB&ictx=0",
+        "serpapi_link":
+        "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=On-page+SEO"
+      },
+      {
+        "position":
+        9,
+        "title":
+        "Tools",
+        "link":
+        "https://www.google.com/search?gl=us&hl=en&q=SEO+tools&uds=CxKACiMKBXRvb2xzEhhzaXRlOm1hcmtldHRhaWxvci5pbyBzZW8wAQM&sa=X&ved=2ahUKEwit07KGkIL_AhUPOkQIHfqABVAQxKsJegQILRAB&ictx=0",
+        "serpapi_link":
+        "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=SEO+tools"
+      }
+    ]
+  },
+  "organic_results":
+  [
+    {
+      "position":
+      1,
+      "title":
+      "The role of search engine optimization in lead generation",
+      "link":
+      "https://www.markettailor.io/blog/role-of-search-engine-optimization-in-lead-generation",
+      "displayed_link":
+      "https://www.markettailor.io › blog › role-of-search-en...",
+      "snippet":
+      "SEO, or SEO, is the process of optimizing your website and its content to improve its visibility and ranking on search engines like Google. The goal of SEO ...",
+      "snippet_highlighted_words":
+      [
+        "SEO",
+        "SEO",
+        "SEO"
+      ],
+      "about_this_result":
+      {
+        "keywords":
+        [
+          "seo"
+        ],
+        "related_keywords":
+        [
+          "search engine optimization"
+        ],
+        "languages":
+        [
+          "English"
+        ],
+        "regions":
+        [
+          "United States"
+        ]
+      },
+      "cached_page_link":
+      "https://webcache.googleusercontent.com/search?q=cache:4QmXN7MOfJEJ:https://www.markettailor.io/blog/role-of-search-engine-optimization-in-lead-generation&cd=11&hl=en&ct=clnk&gl=us",
+      "source":
+      "markettailor.io"
+    },
+    {
+      "position":
+      2,
+      "title":
+      "How to use search engine optimization for growth",
+      "link":
+      "https://www.markettailor.io/blog/how-to-use-search-engine-optimization-for-growth",
+      "displayed_link":
+      "https://www.markettailor.io › blog › how-to-use-searc...",
+      "snippet":
+      "SEO is the practice of optimizing your website to rank higher in search engine results pages, which can lead to increased visibility, traffic, and ultimately, ...",
+      "snippet_highlighted_words":
+      [
+        "SEO"
+      ],
+      "about_this_result":
+      {
+        "keywords":
+        [
+          "seo"
+        ],
+        "related_keywords":
+        [
+          "search engine optimization"
+        ],
+        "languages":
+        [
+          "English"
+        ],
+        "regions":
+        [
+          "United States"
+        ]
+      },
+      "cached_page_link":
+      "https://webcache.googleusercontent.com/search?q=cache:YzktgL9RuTMJ:https://www.markettailor.io/blog/how-to-use-search-engine-optimization-for-growth&cd=12&hl=en&ct=clnk&gl=us",
+      "source":
+      "markettailor.io"
+    },
+    {
+      "position":
+      3,
+      "title":
+      "The Role of SEO in Lead Generation",
+      "link":
+      "https://www.markettailor.io/blog/role-of-seo-in-lead-generation",
+      "displayed_link":
+      "https://www.markettailor.io › blog › role-of-seo-in-lea...",
+      "snippet":
+      "SEO stands for Search Engine Optimization, which is the process of optimizing your website and its content to rank higher in search engine results pages (SERPs) ...",
+      "snippet_highlighted_words":
+      [
+        "SEO",
+        "Search Engine Optimization"
+      ],
+      "about_this_result":
+      {
+        "keywords":
+        [
+          "seo"
+        ],
+        "related_keywords":
+        [
+          "search engine optimization"
+        ],
+        "languages":
+        [
+          "English"
+        ],
+        "regions":
+        [
+          "United States"
+        ]
+      },
+      "cached_page_link":
+      "https://webcache.googleusercontent.com/search?q=cache:aa-tA02hYgwJ:https://www.markettailor.io/blog/role-of-seo-in-lead-generation&cd=13&hl=en&ct=clnk&gl=us",
+      "source":
+      "markettailor.io"
+    },
+    {
+      "position":
+      4,
+      "title":
+      "The impact of search engine optimization on lead generation",
+      "link":
+      "https://www.markettailor.io/blog/impact-of-search-engine-optimization-on-lead-generation",
+      "displayed_link":
+      "https://www.markettailor.io › blog › impact-of-search-...",
+      "date":
+      "Feb 22, 2023",
+      "snippet":
+      "SEO involves a number of different tactics, including keyword research, on-page optimization, building quality backlinks, and creating high- ...",
+      "snippet_highlighted_words":
+      [
+        "SEO"
+      ],
+      "about_this_result":
+      {
+        "keywords":
+        [
+          "seo"
+        ],
+        "related_keywords":
+        [
+          "search engine optimization"
+        ],
+        "languages":
+        [
+          "English"
+        ],
+        "regions":
+        [
+          "United States"
+        ]
+      },
+      "cached_page_link":
+      "https://webcache.googleusercontent.com/search?q=cache:PMIMvYM4lUMJ:https://www.markettailor.io/blog/impact-of-search-engine-optimization-on-lead-generation&cd=14&hl=en&ct=clnk&gl=us",
+      "source":
+      "markettailor.io"
+    },
+    {
+      "position":
+      5,
+      "title":
+      "How to generate leads through local marketing and SEO",
+      "link":
+      "https://www.markettailor.io/blog/how-to-generate-leads-through-local-marketing-and-seo",
+      "displayed_link":
+      "https://www.markettailor.io › blog › how-to-generate-l...",
+      "snippet":
+      "In today's world, local marketing and SEO are two of the most effective ways to reach potential customers and generate leads. In this article, we'll explore ...",
+      "snippet_highlighted_words":
+      [
+        "SEO"
+      ],
+      "about_this_result":
+      {
+        "keywords":
+        [
+          "seo"
+        ],
+        "languages":
+        [
+          "English"
+        ],
+        "regions":
+        [
+          "United States"
+        ]
+      },
+      "cached_page_link":
+      "https://webcache.googleusercontent.com/search?q=cache:E1kfVRUo44MJ:https://www.markettailor.io/blog/how-to-generate-leads-through-local-marketing-and-seo&cd=15&hl=en&ct=clnk&gl=us",
+      "source":
+      "markettailor.io"
+    },
+    {
+      "position":
+      6,
+      "title":
+      "Best SEO tools in 2023 for raising your organic traffic",
+      "link":
+      "https://www.markettailor.io/blog/best-seo-tools",
+      "displayed_link":
+      "https://www.markettailor.io › blog › best-seo-tools",
+      "snippet":
+      "Search engine optimization (SEO) is a vast and dynamic field that calls for consistent planning and ongoing work. Because of its complicated nature, ...",
+      "snippet_highlighted_words":
+      [
+        "Search engine optimization",
+        "SEO"
+      ],
+      "about_this_result":
+      {
+        "keywords":
+        [
+          "seo"
+        ],
+        "related_keywords":
+        [
+          "search engine optimization"
+        ],
+        "languages":
+        [
+          "English"
+        ],
+        "regions":
+        [
+          "United States"
+        ]
+      },
+      "cached_page_link":
+      "https://webcache.googleusercontent.com/search?q=cache:uof7mKGr03cJ:https://www.markettailor.io/blog/best-seo-tools&cd=16&hl=en&ct=clnk&gl=us",
+      "source":
+      "markettailor.io"
+    },
+    {
+      "position":
+      7,
+      "title":
+      "Lead generation through search engine optimization",
+      "link":
+      "https://www.markettailor.io/blog/lead-generation-through-search-engine-optimization",
+      "displayed_link":
+      "https://www.markettailor.io › blog › lead-generation-t...",
+      "snippet":
+      "Simply put, SEO is the process of optimizing your website so that it ranks higher in search engine results pages (SERPs) when people search for keywords related ...",
+      "snippet_highlighted_words":
+      [
+        "SEO"
+      ],
+      "about_this_result":
+      {
+        "keywords":
+        [
+          "seo"
+        ],
+        "related_keywords":
+        [
+          "search engine optimization"
+        ],
+        "languages":
+        [
+          "English"
+        ],
+        "regions":
+        [
+          "United States"
+        ]
+      },
+      "cached_page_link":
+      "https://webcache.googleusercontent.com/search?q=cache:DCN6agWSYcsJ:https://www.markettailor.io/blog/lead-generation-through-search-engine-optimization&cd=17&hl=en&ct=clnk&gl=us",
+      "source":
+      "markettailor.io"
+    },
+    {
+      "position":
+      8,
+      "title":
+      "The role of SEO in lead generation: tips and best practices",
+      "link":
+      "https://www.markettailor.io/blog/role-of-seo-in-lead-generation-tips-and-best-practices",
+      "displayed_link":
+      "https://www.markettailor.io › blog › role-of-seo-in-lea...",
+      "date":
+      "Feb 22, 2023",
+      "snippet":
+      "Maximize your lead generation efforts with tips and best practices for SEO. Learn about keyword research, on-page optimization, local SEO, ...",
+      "snippet_highlighted_words":
+      [
+        "SEO",
+        "SEO"
+      ],
+      "about_this_result":
+      {
+        "keywords":
+        [
+          "seo"
+        ],
+        "languages":
+        [
+          "English"
+        ],
+        "regions":
+        [
+          "United States"
+        ]
+      },
+      "cached_page_link":
+      "https://webcache.googleusercontent.com/search?q=cache:e9pxN6uVZI4J:https://www.markettailor.io/blog/role-of-seo-in-lead-generation-tips-and-best-practices&cd=18&hl=en&ct=clnk&gl=us",
+      "source":
+      "markettailor.io"
+    },
+    {
+      "position":
+      9,
+      "title":
+      "Lead generation through local SEO",
+      "link":
+      "https://www.markettailor.io/blog/lead-generation-through-local-seo",
+      "displayed_link":
+      "https://www.markettailor.io › blog › lead-generation-t...",
+      "date":
+      "Feb 22, 2023",
+      "snippet":
+      "Maximize your local lead generation efforts with proven local SEO techniques. Learn how to improve visibility, connect with customers and ...",
+      "snippet_highlighted_words":
+      [
+        "SEO"
+      ],
+      "about_this_result":
+      {
+        "keywords":
+        [
+          "seo"
+        ],
+        "languages":
+        [
+          "English"
+        ],
+        "regions":
+        [
+          "United States"
+        ]
+      },
+      "cached_page_link":
+      "https://webcache.googleusercontent.com/search?q=cache:9D4z6PuPjY8J:https://www.markettailor.io/blog/lead-generation-through-local-seo&cd=19&hl=en&ct=clnk&gl=us",
+      "source":
+      "markettailor.io"
+    },
+    {
+      "position":
+      10,
+      "title":
+      "How to use local SEO for growth marketing",
+      "link":
+      "https://www.markettailor.io/blog/how-to-use-local-seo-for-growth-marketing",
+      "displayed_link":
+      "https://www.markettailor.io › blog › how-to-use-local-...",
+      "snippet":
+      "Local SEO (Search Engine Optimization) is a strategy to improve your online visibility for location-based searches. It involves optimizing your website and ...",
+      "snippet_highlighted_words":
+      [
+        "SEO",
+        "Search Engine Optimization"
+      ],
+      "about_this_result":
+      {
+        "keywords":
+        [
+          "seo"
+        ],
+        "related_keywords":
+        [
+          "search engine optimization"
+        ],
+        "languages":
+        [
+          "English"
+        ],
+        "regions":
+        [
+          "United States"
+        ]
+      },
+      "cached_page_link":
+      "https://webcache.googleusercontent.com/search?q=cache:BkVjBHWJt8cJ:https://www.markettailor.io/blog/how-to-use-local-seo-for-growth-marketing&cd=20&hl=en&ct=clnk&gl=us",
+      "source":
+      "markettailor.io"
+    }
+  ],
+  "pagination":
+  {
+    "current":
+    1,
+    "next":
+    "https://www.google.com/search?q=site%3Amarkettailor.io+seo&oq=site%3Amarkettailor.io+seo&hl=en&gl=us&start=10&sourceid=chrome&ie=UTF-8",
+    "other_pages":
+    {
+      "https://www.google.com/search?q=site%3Amarkettailor.io+seo&oq=site%3Amarkettailor.io+seo&hl=en&gl=us&start=10&sourceid=chrome&ie=UTF-8",
+      "https://www.google.com/search?q=site%3Amarkettailor.io+seo&oq=site%3Amarkettailor.io+seo&hl=en&gl=us&start=20&sourceid=chrome&ie=UTF-8",
+      "https://www.google.com/search?q=site%3Amarkettailor.io+seo&oq=site%3Amarkettailor.io+seo&hl=en&gl=us&start=30&sourceid=chrome&ie=UTF-8",
+      "https://www.google.com/search?q=site%3Amarkettailor.io+seo&oq=site%3Amarkettailor.io+seo&hl=en&gl=us&start=40&sourceid=chrome&ie=UTF-8"
+    }
+  },
+  "serpapi_pagination":
+  {
+    "current":
+    1,
+    "next_link":
+    "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=site%3Amarkettailor.io+seo&start=10",
+    "next":
+    "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=site%3Amarkettailor.io+seo&start=10",
+    "other_pages":
+    {
+      "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=site%3Amarkettailor.io+seo&start=10",
+      "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=site%3Amarkettailor.io+seo&start=20",
+      "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=site%3Amarkettailor.io+seo&start=30",
+      "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=site%3Amarkettailor.io+seo&start=40"
+    }
+  }
+}
