@@ -2,7 +2,7 @@ import axios from 'axios';
 
 
 async function searchGoogle(url: string, keywords: string) {
-    const apiKey = 'ab9402a6d082a386d3eb5003a6fec1878fd87084a32b9bdc352327e81180832f'; // Replace with your SerpApi API key
+    const apiKey = ''; // Replace with your SerpApi API key
     const searchEngine = 'google';
     const query = 'site:' + url + ' ' + keywords;
 
